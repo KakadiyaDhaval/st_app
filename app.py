@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("""#   Largest Number Finder """)
+st.write("""#   Find Largest Number """)
 
 st.header('User Input Parameters')
 
