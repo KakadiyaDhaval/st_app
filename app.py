@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("""#   Biggest Number Finder :wave:""")
+st.write("""#   Largest Number Finder """)
 
 st.header('User Input Parameters')
 
@@ -15,5 +15,5 @@ largest = max(f,s,t)
 # st.write(largest)
 
 
-st.subheader(f'Biggest number amongst input is {largest}    :thumbsup:')
+st.subheader(f'Largest number amongst the inputs is {largest}    :thumbsup:')
 
