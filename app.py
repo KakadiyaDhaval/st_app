@@ -2,7 +2,7 @@ import streamlit as st
 
 st.write("""#   Find Largest Number """)
 
-st.header('User Input Parameters')
+st.header('Enter any Three Numbers of your choice')
 
 f = st.number_input("First Number")
 s = st.number_input("Second Number")
