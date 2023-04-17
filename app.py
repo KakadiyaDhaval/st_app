@@ -15,5 +15,5 @@ largest = max(f,s,t)
 # st.write(largest)
 
 
-st.subheader(f'Largest number amongst the inputs is {largest.:2f}    :thumbsup:')
+st.subheader(f"Largest number amongst the inputs is {round(largest,2)}    :thumbsup:")
 
